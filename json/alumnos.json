@@ -1,0 +1,49 @@
+[{
+    "id": "ALUMNO2021-9552",
+    "nombre": "Cesar",
+    "apellido": "Fabrucui",
+    "direccion": "SM",
+    "edad": "30",
+    "email": "M@gmail.com",
+    "password": "$2y$10$APTM\/ihv3WV0khxyiDnzZe\/Ly4ezGp9E4NMKbPuxGB0robty4WNJu"
+}, {
+    "id": "ALUMNO2021-6590",
+    "nombre": "Juan",
+    "apellido": "Villatoro",
+    "direccion": "SM",
+    "edad": "23",
+    "email": "Md@gmail.com",
+    "password": "$2y$10$fLrxebSoho5pNWnxMAZU1uKYO6MnA2owVlhX.EelhkQPEvDmfgZp2"
+}, {
+    "id": "ALUMNO2021-0831",
+    "nombre": "Leo Fabricio",
+    "apellido": "Morales Cruz",
+    "direccion": "SM ",
+    "edad": "25",
+    "email": "Leo@gmail.com",
+    "password": "$2y$10$R08dlpYNmYPte40wx0IB8.5rnJrDTOiwV2IB17MJT0juPbYMJmelm"
+}, {
+    "id": "ALUMNO2021-8366",
+    "nombre": "Auroa",
+    "apellido": "Machado",
+    "direccion": "SM",
+    "edad": "28",
+    "email": "A@gmail.com",
+    "password": "$2y$10$nV9DcRk5R2z9sAngm3jXlOQ5n8R9E9wIPyKD2q5dDXbmZpfVTI\/a2"
+}, {
+    "id": "ALUMNO2021-8835",
+    "nombre": "Mateo",
+    "apellido": "Alessandro",
+    "direccion": "SM ",
+    "edad": "25",
+    "email": "mateo@gmail.com",
+    "password": "$2y$10$4OXeI27abCtkFbJPsLebPeFUwAil7JUkX1WHCuO7h8XLvlUDTMCvC"
+}, {
+    "id": "ALUMNO2021-6815",
+    "nombre": "kevin",
+    "apellido": "gonzalez",
+    "direccion": "San Miguel",
+    "edad": "25",
+    "email": "kevin@gmail.com",
+    "password": "$2y$10$67LdsJfvCZRTZk\/a.K0Lhej8NTDV55.nP7KTtPdpX0IBr.YVCHK5O"
+}]

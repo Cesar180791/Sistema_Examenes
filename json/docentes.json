@@ -1,0 +1,41 @@
+[{
+    "id": "D2021-7585",
+    "nombre": "Soleivy",
+    "apellido": "Pereira",
+    "direccion": "SM",
+    "edad": "30",
+    "email": "sol@gmail.com",
+    "password": "$2y$10$SuOk1Ykkqg.DMp9iDjiqV.Xao6fMQyCrgszAplJxuIT5V3t6EVNxi",
+    "rol": 2,
+    "estado": 1
+}, {
+    "id": "D2021-6901",
+    "nombre": "Manuel",
+    "apellido": "Reyes",
+    "direccion": "Nueva esparta",
+    "edad": "28",
+    "email": "manuel@gmail.com",
+    "password": "$2y$10$Fm\/1IonM7PyPJp1mdmS.B.5A5Ptfemg6IuMta4qSib0ElzSxMIHYu",
+    "rol": 2,
+    "estado": 1
+}, {
+    "id": "D2021-8972",
+    "nombre": "kevin",
+    "apellido": "kevin",
+    "direccion": "SM",
+    "edad": "26",
+    "email": "kevin@gmail.com",
+    "password": "$2y$10$HIZgvG86M78SBxfGuZQjy.r8mKqT3z9jDM38XK8n2rhbFdg0iZ27.",
+    "rol": 2,
+    "estado": 1
+}, {
+    "id": "D2021-9639",
+    "nombre": "alexander",
+    "apellido": "rodriguez",
+    "direccion": "SM",
+    "edad": "36",
+    "email": "alex@gmail.com",
+    "password": "$2y$10$3lcoIL4ydonHp8ery47Snu2txUhoD\/wDNduNJsO62lkEPPx61LH0u",
+    "rol": 2,
+    "estado": 1
+}]

@@ -1,0 +1,19 @@
+[{
+    "id": "A2021-1891",
+    "nombre": "Cesar Fabricio",
+    "apellido": "Morales Rivera",
+    "direccion": "San Miguel",
+    "edad": "30",
+    "email": "rivera@gmail.com",
+    "password": "$2y$10$Z.NuyNSTxZv9qrsu9DQ3IeIjS\/VczxbeA0IIuKhRA.Xeing8FvPrm",
+    "rol": 2
+},{
+    "id": "A2021-2014",
+    "nombre": "Manuel de Jesus",
+    "apellido": "Reyes Molina",
+    "direccion": "Nueva esparta",
+    "edad": "45",
+    "email": "rivera2@gmail.com",
+    "password": "$2y$10$Z.NuyNSTxZv9qrsu9DQ3IeIjS\/VczxbeA0IIuKhRA.Xeing8FvPrm",
+    "rol": 1
+}]
